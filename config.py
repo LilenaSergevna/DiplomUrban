@@ -1,5 +1,5 @@
 
-API="8042797506:AAFBTh3aQgJv5fy0cSYJ8gBLEugumTTEeAc"
+API=""
 
 price_spitz=10000
 price_bulldog=30000
